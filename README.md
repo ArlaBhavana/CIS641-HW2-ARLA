@@ -1,6 +1,6 @@
 # CIS641-HW2-ARLA
-## BHAVANA ARLA
-### INTERESTS
+## Bhavana Arla
+### Interests
 - Love to do sketching
 - Learning new tools and technologies in software development
 - Learning version control systems like Git and GitHub
