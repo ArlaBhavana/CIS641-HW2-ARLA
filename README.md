@@ -1,2 +1,3 @@
 # CIS641-HW2-ARLA
 ## BHAVANA ARLA
+# Technical
